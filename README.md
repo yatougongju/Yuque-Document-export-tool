@@ -19,19 +19,25 @@ https://wwawz.lanzouu.com/iBusp4d5sg3a
 <img width="543" height="288" alt="image" src="https://github.com/user-attachments/assets/07242be2-d3c4-49d2-99de-1260eb352d4b" />
 
 ### 工具使用教程【必看】
-https://my.feishu.cn/wiki/Og5Pwh0RrinGdbkl5T0cUcjznvh
+https://my.feishu.cn/wiki/Og5Pwh0RrinGdbkl5T0cUcjznvh](https://my.feishu.cn/wiki/SymDwkPMTiBavOkuunGcKdLbnpd?from=from_copylink
 ### 如何安装使用？
 今天就教大家一个无需安装额外软件、支持Windows和Macos系统 相对简单的方法
-<img width="469" height="776" alt="image" src="https://github.com/user-attachments/assets/3293a3b6-9cc3-4ad8-a6ec-9d41ab10dc16" />
+<img width="593" height="942" alt="image" src="https://github.com/user-attachments/assets/0db76b78-e0dd-4024-9fad-b7b06f4d362b" />
+
 ### 工具类型
 - 浏览器插件（支持Windows电脑+Mac电脑）
 - 【安装在谷歌浏览器或者Edge浏览器】
 
 ### 工具功能
-- 1.帖子导出：支持 DOM 完整扫描 与 API 分页抓取 双模式！可按今天 / 近一周 / 自定义日期 / 全部 等范围筛选！导出格式丰富：离线 HTML（图片嵌入）、在线 HTML、Markdown、Word、JSON、TXT、PDF 等！适合：整星球备份、按时间段归档、做知识库素材。
-- 2.文件下载：针对帖子里的附件，按规则批量下载，减少点开一条条存的麻烦。
-- 3.星球文件：面向星球内文件资源的高速批量下载，自动归入「{星球名}_星球文件」目录，结构清晰、便于整理。
-- 4.导出搜索框：在知识星球里搜好关键词后，把搜索结果直接导出——做专题合集、选题调研特别方便。小体量结果整文件导出，不会无意义拆成很多小卷。
+- 1.安全无痕（没有任何下载记录，管理员也找不到你任何下载记录） 
+- 2.安装插件后，一键解析批量导出整个知识库！ 
+- 3.语雀单篇文档/知识库一键解析，批量下载！
+- 4.支持按知识库目录结构源文件夹批量下载！
+- 5.支持语雀文档/表格/智能表格/白板/知识库/图片库/文件库/小记等超多种文档类型
+- 6.支持全部导出为离线版（图片和附件全部下载到本地）
+- 7.支持一键导出MD/Lake/html/word/pdf等多种格式
+- 8.支持原格式克隆到自己语雀账号~可编辑！可下载！可管理！
+- 9.快速方便快捷知识库一键备份！方便离线阅读！
 
 ### 准备工作
 
@@ -51,5 +57,5 @@ https://my.feishu.cn/wiki/Og5Pwh0RrinGdbkl5T0cUcjznvh
 - 此方法仅适用于个人学习、复习目的，请勿将下载的视频用于商业用途或公开传播，尊重内容创作者的版权。
 - 批量文件导出较多，下载时请保持网络稳定。
 - 该插件仅用于个人学习、复习，请勿将下载的文件用于商业用途或公开传播。
-- 以上就是知识星球帖子的批量下载方法，全程简单无痕、无需安装不明软件，只要一个浏览器就能完成。希望对你有所帮助！
+- 以上就是工具使用方法，全程简单无痕、无需安装不明软件，只要一个浏览器就能完成。希望对你有所帮助！
 
